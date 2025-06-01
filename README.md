@@ -112,9 +112,9 @@ You’ll see the contrast between public and private infrastructure firsthand. I
 4. Choose a free-tier-eligible AMI (e.g., Ubuntu) and keep track of the username.
 5. Choose a free-tier eligible Instance Type (e.g t2.micro).
 6. Create a Key Pair:
-7. Name your __Key Pair__:
-   - Choose RSA
-   - Download and store the .pem file securely
+   - Name your __Key Pair__
+   - Choose __RSA__
+   - Download and store the __.pem__ file securely
 
 
 ### Networking Settings
