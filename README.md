@@ -66,7 +66,7 @@ This guide creates two subnets for different use cases, if you only want one fol
 1. Go to Subnets > Create Subnet.
 2. Name your Subnet
 3. Choose your VPC.
-4. Choose an Availability Zone (e.g., ca-central-1a, any one will work..
+4. Choose an Availability Zone (e.g., ca-central-1a, any one will work).
 5. Create two subnets:
    - Public Subnet (e.g., 12.0.1.0/24)
    - Private Subnet (e.g., 12.0.2.0/24)
