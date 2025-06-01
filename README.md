@@ -161,7 +161,7 @@ Jump hosts let you securely connect to private infrastructure without exposing i
 ### Steps
 1. Copy the private instance’s .pem key to the public instance:
 ```bash
-scp -i /path/to/local/public-key.pem /path/to/local/private-key.pem ec2-user@your-public-ip:/home/ec2-user/
+sudo scp -i /path/to/local/public-key.pem /path/to/local/private-key.pem ec2-user@your-public-ip:/home/ec2-user/
 ```
 2. SSH into the public instance:
 ```bash
