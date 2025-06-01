@@ -3,8 +3,6 @@
 ## Overview
 Welcome to this guided crash course on deploying virtual machines using AWS. This is not your typical tutorial. Instead, it's designed to teach you the why and how of cloud architecture as we build it step by step. By the end, you won't just know what buttons to press—you'll understand what’s happening behind the scenes, and why each decision matters.
 
->__Credit:__ Huge thanks to Nsh-GaMeS for inspiring this guide.
-
 ## Prerequisites
 Before diving in, make sure you:
 - Understand basic networking (IP addressing, subnets)
